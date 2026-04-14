@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90700237324",
+    "project_id": "mali-ntic",
+    "storage_bucket": "mali-ntic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90700237324:android:f60229e8bd876e44f37c29",
+        "android_client_info": {
+          "package_name": "com.example.tontine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29TAYK0qZ7SazAfeOAJpoIGWgiPOHcaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
