@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"diagotono",
+    "site": "diagotono",
     "public": "build/web",
     "ignore": [
       "firebase.json",

@@ -40,11 +40,17 @@ dependencies:
   fl_chart: ^0.68.0
   rxdart: ^0.27.7
   url_launcher: ^6.3.0
+  pdf: ^3.10.7
+  printing: ^5.11.1
+  path_provider: ^2.1.2
+  http: ^1.2.0
+  image_picker: ^1.0.7
+  imagekit_io: ^0.0.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_launcher_icons: ^0.11.0
+  flutter_launcher_icons: ^0.14.4
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
